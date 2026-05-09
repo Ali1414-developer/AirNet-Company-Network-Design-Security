@@ -49,7 +49,7 @@ The infrastructure follows a Hierarchical Star Design, widely used in enterprise
   <img src="./assets/Topology.png" width="100%" />
 </div>
 <div align="center">
-  <img src="./assets/Sydney_head.png" width="100%" />
+  <img src="./assets/Sydney_Head.png" width="100%" />
 </div>
 <div align="center">
   <img src="./assets/City2.png" width="100%" />
@@ -62,15 +62,20 @@ The infrastructure follows a Hierarchical Star Design, widely used in enterprise
 # 🔀 VLAN Configuration
 
 <div align="center">
-  <img src="./screenshots/vlan-config.png" width="100%" />
+  <img src="./assets/VLAN.png" width="100%" />
 </div>
-
+<div align="center">
+  <img src="./assets/Vlanconf.png" width="100%" />
+</div>
+<div align="center">
+  <img src="./assets/Vlanconfig.png" width="100%" />
+</div>
 ---
 
-# 📡 Wireless Infrastructure
+# Pinging Infrastructure
 
 <div align="center">
-  <img src="./screenshots/wireless-network.png" width="100%" />
+  <img src="./assets/pinging.png" width="100%" />
 </div>
 
 ---
@@ -78,7 +83,10 @@ The infrastructure follows a Hierarchical Star Design, widely used in enterprise
 # 🔒 VPN Connectivity
 
 <div align="center">
-  <img src="./screenshots/vpn-connectivity.png" width="100%" />
+  <img src="./assets/VPN.png" width="100%" />
+</div>
+<div align="center">
+  <img src="./assets/VPn2.png" width="100%" />
 </div>
 
 ---
@@ -86,7 +94,7 @@ The infrastructure follows a Hierarchical Star Design, widely used in enterprise
 # 🧪 Connectivity Testing
 
 <div align="center">
-  <img src="./screenshots/ping-testing.png" width="100%" />
+  <img src="./assets/VPN3.png" width="100%" />
 </div>
 🧩 Architecture Layers
 <div align="center">
