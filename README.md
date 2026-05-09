@@ -46,9 +46,17 @@ The infrastructure follows a Hierarchical Star Design, widely used in enterprise
 # 🌐 Enterprise Network Topology
 
 <div align="center">
-  <img src="./screenshots/topology.png" width="100%" />
+  <img src="./assets/Topology.png" width="100%" />
 </div>
-
+<div align="center">
+  <img src="./assets/Sydney_head.png" width="100%" />
+</div>
+<div align="center">
+  <img src="./assets/City2.png" width="100%" />
+</div>
+<div align="center">
+  <img src="./assets/City3.png" width="100%" />
+</div>
 ---
 
 # 🔀 VLAN Configuration
