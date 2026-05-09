@@ -106,19 +106,19 @@ The infrastructure follows a Hierarchical Star Design, widely used in enterprise
 
 <div align="center">
 
-<img src="./assets/Topology.png" width="90%" />
+<img src="./assets/Topology.png" width="90%" style="border: 3px solid #3b82f6; border-radius: 14px; padding: 6px;" />
 
 <br><br>
 
-<img src="./assets/Sydney_Head.png" width="90%" />
+<img src="./assets/Sydney_Head.png" width="90%" style="border: 3px solid #3b82f6; border-radius: 14px; padding: 6px;" />
 
 <br><br>
 
-<img src="./assets/City2.png" width="90%" />
+<img src="./assets/City2.png" width="90%" style="border: 3px solid #3b82f6; border-radius: 14px; padding: 6px;" />
 
 <br><br>
 
-<img src="./assets/City3.png" width="90%" />
+<img src="./assets/City3.png" width="90%" style="border: 3px solid #3b82f6; border-radius: 14px; padding: 6px;" />
 
 </div>
 
@@ -128,15 +128,15 @@ The infrastructure follows a Hierarchical Star Design, widely used in enterprise
 
 <div align="center">
 
-<img src="./assets/VLAN.png" width="90%" />
+<img src="./assets/VLAN.png" width="90%" style="border: 3px solid #10b981; border-radius: 14px; padding: 6px;" />
 
 <br><br>
 
-<img src="./assets/Vlanconf.png" width="90%" />
+<img src="./assets/Vlanconf.png" width="90%" style="border: 3px solid #10b981; border-radius: 14px; padding: 6px;" />
 
 <br><br>
 
-<img src="./assets/Vlanconfig.png" width="90%" />
+<img src="./assets/Vlanconfig.png" width="90%" style="border: 3px solid #10b981; border-radius: 14px; padding: 6px;" />
 
 </div>
 
@@ -146,7 +146,7 @@ The infrastructure follows a Hierarchical Star Design, widely used in enterprise
 
 <div align="center">
 
-<img src="./assets/pinging.png" width="90%" />
+<img src="./assets/pinging.png" width="90%" style="border: 3px solid #f59e0b; border-radius: 14px; padding: 6px;" />
 
 </div>
 
@@ -156,11 +156,11 @@ The infrastructure follows a Hierarchical Star Design, widely used in enterprise
 
 <div align="center">
 
-<img src="./assets/VPN.png" width="90%" />
+<img src="./assets/VPN.png" width="90%" style="border: 3px solid #ef4444; border-radius: 14px; padding: 6px;" />
 
 <br><br>
 
-<img src="./assets/VPn2.png" width="90%" />
+<img src="./assets/VPn2.png" width="90%" style="border: 3px solid #ef4444; border-radius: 14px; padding: 6px;" />
 
 </div>
 
@@ -170,7 +170,7 @@ The infrastructure follows a Hierarchical Star Design, widely used in enterprise
 
 <div align="center">
 
-<img src="./assets/VPN3.png" width="90%" />
+<img src="./assets/VPN3.png" width="90%" style="border: 3px solid #8b5cf6; border-radius: 14px; padding: 6px;" />
 
 </div>
 
