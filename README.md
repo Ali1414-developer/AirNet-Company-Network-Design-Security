@@ -42,7 +42,44 @@ The infrastructure follows a Hierarchical Star Design, widely used in enterprise
 ✔️ Better Performance
 ✔️ Fault Isolation
 ✔️ Enhanced Security
+✨ Professional Screenshot Layout
+# 🌐 Enterprise Network Topology
 
+<div align="center">
+  <img src="./screenshots/topology.png" width="100%" />
+</div>
+
+---
+
+# 🔀 VLAN Configuration
+
+<div align="center">
+  <img src="./screenshots/vlan-config.png" width="100%" />
+</div>
+
+---
+
+# 📡 Wireless Infrastructure
+
+<div align="center">
+  <img src="./screenshots/wireless-network.png" width="100%" />
+</div>
+
+---
+
+# 🔒 VPN Connectivity
+
+<div align="center">
+  <img src="./screenshots/vpn-connectivity.png" width="100%" />
+</div>
+
+---
+
+# 🧪 Connectivity Testing
+
+<div align="center">
+  <img src="./screenshots/ping-testing.png" width="100%" />
+</div>
 🧩 Architecture Layers
 <div align="center">
 Layer	Components	Function
@@ -117,44 +154,7 @@ AirNet-Network-Project/
 │
 ├── AirNet_Project.pkt
 └── README.md
-✨ Professional Screenshot Layout
-# 🌐 Enterprise Network Topology
 
-<div align="center">
-  <img src="./screenshots/topology.png" width="100%" />
-</div>
-
----
-
-# 🔀 VLAN Configuration
-
-<div align="center">
-  <img src="./screenshots/vlan-config.png" width="100%" />
-</div>
-
----
-
-# 📡 Wireless Infrastructure
-
-<div align="center">
-  <img src="./screenshots/wireless-network.png" width="100%" />
-</div>
-
----
-
-# 🔒 VPN Connectivity
-
-<div align="center">
-  <img src="./screenshots/vpn-connectivity.png" width="100%" />
-</div>
-
----
-
-# 🧪 Connectivity Testing
-
-<div align="center">
-  <img src="./screenshots/ping-testing.png" width="100%" />
-</div>
 ⚙️ Getting Started
 <div align="center">
 🚀 Run The Project
